@@ -1,0 +1,12 @@
+{
+  "name": "hoppinger/no_comment",
+  "description": "WordPress plugin to disable comments.",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sebastiaan de Geus",
+      "email": "sebastiaan@hoppinger.com"
+    }
+  ]
+}
